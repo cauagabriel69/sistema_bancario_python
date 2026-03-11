@@ -1,0 +1,16 @@
+[
+    {
+        "tipo": "DEPÓSITO",
+        "valor": 10000.0,
+        "origem": "caua",
+        "destino": null,
+        "data": "10/03/2026 11:46:37"
+    },
+    {
+        "tipo": "TRANSFERÊNCIA",
+        "valor": 1200.0,
+        "origem": "ana",
+        "destino": "caua",
+        "data": "10/03/2026 11:46:50"
+    }
+]

@@ -1,0 +1,36 @@
+10/03/2026 10:56:11 | INFO | Cliente criado: ana | ID 1
+10/03/2026 10:58:25 | INFO | Cliente criado: caua | ID 2
+10/03/2026 10:58:33 | INFO | LOGIN: caua | ID 2 acessou o terminal
+10/03/2026 11:16:59 | INFO | LOGIN: ana | ID 1 acessou o terminal
+10/03/2026 11:30:13 | INFO | LOGIN: ana | ID 1 acessou o terminal
+10/03/2026 11:38:37 | INFO | LOGIN: ana | ID 1 acessou o terminal
+10/03/2026 11:46:44 | INFO | LOGIN: ana | ID 1 acessou o terminal
+10/03/2026 11:46:50 | INFO | Transferência: ana -> caua | R$1200.0
+10/03/2026 11:47:19 | WARNING | Tentativa de saque invalida: ana tentou sacar R$10000.0
+10/03/2026 11:47:21 | INFO | LOGOUT: ana | ID 1 saiu do terminal
+10/03/2026 12:10:13 | INFO | Cliente removido: ID 2
+10/03/2026 12:10:16 | INFO | Cliente removido: ID 1
+10/03/2026 12:10:54 | INFO | Administrador acessou o sistema
+10/03/2026 12:10:59 | INFO | Cliente criado: caua | ID 1
+10/03/2026 12:11:06 | INFO | Cliente removido: caua | ID 1
+10/03/2026 12:11:30 | INFO | Cliente criado: caua | ID 1
+10/03/2026 12:11:34 | INFO | ERRO LOGIN: tentativa inválida | ID 1
+10/03/2026 12:11:37 | INFO | ERRO LOGIN: tentativa inválida | ID 1
+10/03/2026 12:11:40 | INFO | ERRO LOGIN: tentativa inválida | ID 1
+10/03/2026 12:11:45 | INFO | LOGIN BLOQUEADO: tentativa de acesso ID 1
+10/03/2026 12:12:04 | INFO | Administrador acessou o sistema
+10/03/2026 12:12:09 | INFO | ADMIN desbloqueou cliente: caua | ID 1
+10/03/2026 15:00:14 | INFO | Administrador acessou o sistema
+10/03/2026 15:00:40 | INFO | Administrador acessou o sistema
+10/03/2026 15:01:31 | INFO | Administrador acessou o sistema
+10/03/2026 16:26:59 | INFO | Administrador acessou o sistema
+10/03/2026 16:27:08 | INFO | Cliente criado: a | ID 1
+10/03/2026 16:27:14 | INFO | Cliente removido: a | ID 1
+10/03/2026 16:29:41 | INFO | Administrador acessou o sistema
+10/03/2026 16:29:50 | INFO | Cliente criado: a | ID 1
+10/03/2026 16:29:55 | INFO | Cliente removido: a | ID 1
+10/03/2026 16:39:26 | INFO | Administrador acessou o sistema
+10/03/2026 16:42:22 | INFO | Administrador acessou o sistema
+10/03/2026 16:45:24 | INFO | Administrador acessou o sistema
+10/03/2026 16:45:34 | INFO | Cliente criado: a | ID 1
+10/03/2026 16:45:37 | INFO | Cliente removido: a | ID 1
